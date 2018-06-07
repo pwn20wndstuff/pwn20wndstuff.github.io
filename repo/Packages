@@ -1,0 +1,54 @@
+Package: com.pwn20wnd.noplsocsp
+Version: 1.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: Pwn20wnd <pwn20wndstuff@gmail.com>
+Installed-Size: 140
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: bash, cy+cpu.arm64
+Filename: ./debs/com.pwn20wnd.noplsocsp_1.0-1+debug_iphoneos-arm.deb
+Size: 6026
+MD5sum: f084704d1fdb410c4a088b1a4f9cc365
+SHA1: 30348f11c514fc47d750f2b925214e3e028fd33c
+SHA256: ed6f871109d5e11fd7eb158b2e715e83e94071afd2b297a2774dad096d29b615
+Section: System
+Description: Blocks the Apple OCSP servers to block the certificates from getting revoked.
+Tag: role::hacker
+Author: Pwn20wnd <pwn20wndstuff@gmail.com>
+Name: NoPlsOCSP
+
+Package: com.pwn20wnd.noplsocsp
+Version: 1.0-2+debug
+Architecture: iphoneos-arm
+Maintainer: Pwn20wnd <pwn20wndstuff@gmail.com>
+Installed-Size: 140
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: bash, cy+cpu.arm64
+Filename: ./debs/com.pwn20wnd.noplsocsp_1.0-2+debug_iphoneos-arm.deb
+Size: 6032
+MD5sum: 37e3a1712cf535207662de2471c50fbf
+SHA1: 79603775676eff3ef2b99b650042dd5cc13cf22e
+SHA256: 5dac8a88c3cd6fea391585aa23070b956b00029f6148dae5c24aa75652fc6781
+Section: System
+Description: Blocks the Apple OCSP servers to block the certificates from getting revoked.
+Tag: role::hacker
+Author: Pwn20wnd <pwn20wndstuff@gmail.com>
+Name: NoPlsOCSP
+
+Package: com.pwn20wnd.noplsocsp
+Version: 1.0-3+debug
+Architecture: iphoneos-arm
+Maintainer: Pwn20wnd <pwn20wndstuff@gmail.com>
+Installed-Size: 140
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: bash, cy+cpu.arm64
+Filename: ./debs/com.pwn20wnd.noplsocsp_1.0-3+debug_iphoneos-arm.deb
+Size: 6036
+MD5sum: cc2b5f94323bf8def25019e8773d284f
+SHA1: 94de9ff5a0ce787f207f4bc03db243da0097d592
+SHA256: 408e94d39ac3954d96fe873379720f720b4becdf1656e2a08cc3c00fee5358eb
+Section: System
+Description: Blocks the Apple OCSP servers to prevent the certificates from getting revoked.
+Tag: role::hacker
+Author: Pwn20wnd <pwn20wndstuff@gmail.com>
+Name: NoPlsOCSP
+
