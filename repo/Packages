@@ -1,0 +1,331 @@
+Package: com.highcaffeinecontent.Files
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Pwn20wnd <pwn20wndstuff@gmail.com>
+Filename: ./debs/com.highcaffeinecontent.Files_1.0_iphoneos-arm.deb
+Size: 146720
+MD5sum: 10156bd7bcf12d180d5a82a8df7f11d2
+SHA1: 2bef1ca074dceb9a1f4988c0f8cadac638720f34
+SHA256: 7036d15d1f2564bcf14b2ef6b340c467271834db44f075d3ffee453993c91312
+Section: Utilities
+Description: Next-generation file browser for iOS.
+Author: Steven Troughton-Smith
+Name: Files
+
+Package: com.highcaffeinecontent.Files
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Pwn20wnd <pwn20wndstuff@gmail.com>
+Pre-Depends: dpkg (>= 1.14.25-8)
+Filename: ./debs/com.highcaffeinecontent.Files_1.0-1_iphoneos-arm.deb
+Size: 146752
+MD5sum: dcc976157f54179262da4ae7b4394374
+SHA1: 9e11f023f700c2d7ca52c23e01ba01b0dbeb22dc
+SHA256: fdb407dc915102cb0538ee2205796611c96f0326c7309a643495310a8c80747b
+Section: Utilities
+Description: Next-generation file browser for iOS.
+Author: Steven Troughton-Smith
+Name: Files
+
+Package: com.malcolmhall.wifipasswords
+Version: 11.0
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 6.0)
+Filename: ./debs/com.malcolmhall.wifipasswords_11.0_iphoneos-arm.deb
+Size: 848476
+MD5sum: 6c8c12a5f187b8c6ee0e5d1ab2361ca0
+SHA1: f5f735bb25784c771c490288bd173a25cdcb325a
+SHA256: 203189246cde152a196bb69688d2f230575275646c7a560b19f4e09e049c3797
+Section: Utilities
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wifipasswordsData
+Description: shows previously entered wifi passwords
+ This app displays every WiFi password you have ever entered. Very handy if you forgot a password and need to connect another device, or tell a friend the password for a coffee shop without asking that embarrassing question again. Tap hold on the password to copy it to the clipboard. Requires iOS 3.0 or later.
+Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9
+Author: Malcolm Hall <indiekiduk@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wifipasswordsData
+Dev: malcolmhall
+Icon: file:///Applications/WiFiPasswords.app/Icon.png
+Name: WiFi Passwords
+
+Package: com.malcolmhall.wifipasswords
+Version: 11.0-1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: firmware (>= 6.0)
+Filename: ./debs/com.malcolmhall.wifipasswords_11.0-1_iphoneos-arm.deb
+Size: 848836
+MD5sum: a61b77b8393272db919473f2f716fab0
+SHA1: 6087c4170efb78e0827c73031168b544db80eaf4
+SHA256: f6f35a8224ad7771e9cf3e65ffe54bf0ff694669eb25538dd815aafe21545d5b
+Section: Utilities
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wifipasswordsData
+Description: shows previously entered wifi passwords
+ This app displays every WiFi password you have ever entered. Very handy if you forgot a password and need to connect another device, or tell a friend the password for a coffee shop without asking that embarrassing question again. Tap hold on the password to copy it to the clipboard. Requires iOS 3.0 or later.
+Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9
+Author: Malcolm Hall <indiekiduk@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wifipasswordsData
+Dev: malcolmhall
+Icon: file:///Applications/WiFiPasswords.app/Icon.png
+Name: WiFi Passwords
+
+Package: com.pwn20wnd.deviceoperator
+Version: 1.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: Pwn20wnd
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.pwn20wnd.deviceoperator_1.0-1+debug_iphoneos-arm.deb
+Size: 3406
+MD5sum: 9ac0dd7284eb6ab40cb8848a83e37f3a
+SHA1: 949d5b4a75a87cb276cb68f2c4c870920e1b31c4
+SHA256: 54aba81d4d0ffa2c9f98a1481adc001f76c9ff67b4dd3bc283493b679bd1b5d8
+Section: Tweaks
+Description: Change the operator name in the status bar to devices internal identifier.
+Author: Pwn20wnd
+Name: DeviceOperator
+
+Package: com.pwn20wnd.homegesture
+Version: 1.3-1+debug
+Architecture: iphoneos-arm
+Maintainer: Pwn20wnd <pwn20wndstuff@gmail.com>
+Installed-Size: 80
+Depends: mobilesubstrate
+Filename: ./debs/com.pwn20wnd.homegesture_1.3-1+debug_iphoneos-arm.deb
+Size: 4594
+MD5sum: 60c983da7b66d42de0e03f1ff2f1fd23
+SHA1: c74b02919ba4f1887086e6fa2d2c29fe21d2f133
+SHA256: cddad5fbade7ed8a8ac6d84688477494b8e30669f9e22d1823bc177c1e7adbd3
+Section: Tweaks
+Description: Enable iPhone X home gesture on other devices.
+Author: Pwn20wnd, VitaTaf
+Name: HomeGesture
+
+Package: com.pwn20wnd.homegesture
+Version: 1.3.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: Pwn20wnd <pwn20wndstuff@gmail.com>
+Installed-Size: 80
+Depends: mobilesubstrate
+Conflicts: com.VitaTaf.HomeGesture
+Replaces: com.VitaTaf.HomeGesture
+Filename: ./debs/com.pwn20wnd.homegesture_1.3.1-1+debug_iphoneos-arm.deb
+Size: 4614
+MD5sum: 95518d1407cc2ee7d6b056cdeeaae3a6
+SHA1: 554bba6e720bc3fa05a6ba2675cc96d627dcef23
+SHA256: 3028beee3b92b68717036de96a55a6448fc72529c302119f0234187ee85e6982
+Section: Tweaks
+Description: Enable iPhone X home gesture on other devices.
+Author: Pwn20wnd, VitaTaf
+Name: HomeGesture
+
+Package: com.pwn20wnd.hostsblock
+Version: 1.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: Pwn20wnd
+Installed-Size: 144
+Pre-Depends: dpkg
+Depends: coreutils-bin
+Conflicts: com.thireus.untrustedhostsblockerexperimental, com.thireus.untrustedhostsblockerlight, com.thireus.untrustedhostsblocker, com.myrepospace.reddestdream.minimal, com.myrepospace.basic.basic, com.reddestdream.minimalhostsblocker, com.reddestdream.mhbcb, com.ichitaso.removeadstoggle
+Filename: ./debs/com.pwn20wnd.hostsblock_1.0-1+debug_iphoneos-arm.deb
+Size: 4486
+MD5sum: 065c900f118e653a30c8d486adf63a50
+SHA1: 7aea1250426b4c0a6ec85c550525084e2330222b
+SHA256: 50b0d4a27e925836dc2cba372f9741c8fa6624e688998f001191502c87b85181
+Section: System
+Description: An ad blocker for iOS based on the hosts blocking method.
+Author: Pwn20wnd
+Name: HostsBlock
+
+Package: com.pwn20wnd.hostsblock
+Version: 1.0-2+debug
+Architecture: iphoneos-arm
+Maintainer: Pwn20wnd
+Installed-Size: 144
+Pre-Depends: dpkg
+Depends: coreutils-bin
+Conflicts: com.thireus.untrustedhostsblockerexperimental, com.thireus.untrustedhostsblockerlight, com.thireus.untrustedhostsblocker, com.myrepospace.reddestdream.minimal, com.myrepospace.basic.basic, com.reddestdream.minimalhostsblocker, com.reddestdream.mhbcb, com.ichitaso.removeadstoggle
+Filename: ./debs/com.pwn20wnd.hostsblock_1.0-2+debug_iphoneos-arm.deb
+Size: 4482
+MD5sum: f34c3477cd6bf989be9d9880aba6fcf8
+SHA1: 18b1f463502bb418f2d1ea362b9573156b09f86d
+SHA256: 9b628ec48442a5c371741346514b4c45706734fecbf0c9ce31531279a2d1972d
+Section: System
+Description: An ad blocker for iOS based on the hosts blocking method.
+Author: Pwn20wnd
+Name: HostsBlock
+
+Package: com.pwn20wnd.platterless
+Version: 1.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: Pwn20wnd
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.pwn20wnd.platterless_1.0-1+debug_iphoneos-arm.deb
+Size: 2908
+MD5sum: 41071e82c93d267d571da1207eac8ec7
+SHA1: c3c6607ab52da67531d672d2798a6799e92eb9d3
+SHA256: 48448ae8a93f107890d862128d2db5f8064cd7d712b48c5dd75db6b8fc2e7cf6
+Section: Tweaks
+Description: Get a more transparent and a clean look on the iOS 10 control center.
+Author: Pwn20wnd
+Name: Platterless
+
+Package: com.pwn20wnd.unsign
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Pwn20wnd <pwn20wndstuff@gmail.com>
+Filename: ./debs/com.pwn20wnd.unsign_1.0_iphoneos-arm.deb
+Size: 7422
+MD5sum: 597e9f0446552bd97d80bade1904c425
+SHA1: cd3462546e0437a42552c8736d3290dd735ba141
+SHA256: 39ea06246ac2534620415bffac3ae4b8e9629b647a2be3be3c1d4c66a766d41b
+Section: Utilities
+Description: unsign for iOS.
+Author: Pwn20wnd <pwn20wndstuff@gmail.com>
+Name: unsign
+
+Package: com.pwn20wnd.unsign
+Version: 1.0-1-1+debug
+Architecture: iphoneos-arm
+Maintainer: Pwn20wnd <pwn20wndstuff@gmail.com>
+Installed-Size: 72
+Depends: cy+cpu.arm64
+Filename: ./debs/com.pwn20wnd.unsign_1.0-1-1+debug_iphoneos-arm.deb
+Size: 5724
+MD5sum: 177e86270aca4284d47da5dbf0867a04
+SHA1: c6e1f135c16632962a32eabc17132c3d7447d7ec
+SHA256: e712ee5c23622d0c5881806a90ac6f5a9673f26ddc4851393db3a7b2ebbe58f6
+Section: Utilities
+Description: Remove code signatures from iOS Mach-O binaries.
+Author: Pwn20wnd <pwn20wndstuff@gmail.com>
+Name: unsign
+
+Package: net.limneos.classdump-dyld
+Version: 11.0
+Architecture: iphoneos-arm
+Filename: ./debs/net.limneos.classdump-dyld_11.0_iphoneos-arm.deb
+Size: 100864
+MD5sum: f7b9e3539cef1f5bdf1110e1c39875c2
+SHA1: aee244ba4fbce44878b70f313b8c2d20341dddc6
+SHA256: 8afde072e8c05e11dd1784002d770a8ce7033a626498cb261a2193eb478d8376
+Section: System
+Description: Class-dump most images on device or shared cache
+Tag: purpose::extension, role::developer
+Author: Elias Limneos <limneoselias@gmail.com>
+Dev: limneos
+Name: classdump-dyld
+
+Package: org.xbmc.kodi-ios64
+Version: 17.6-0
+Architecture: iphoneos-arm
+Maintainer: Memphiz
+Pre-Depends: dpkg (>= 1.14.25-8), cy+cpu.arm64
+Depends: firmware (>= 7.0)
+Conflicts: org.xbmc.kodi-ios
+Replaces: org.xbmc.kodi-ios
+Filename: ./debs/org.xbmc.kodi-ios_11.0_17.6-0_iphoneos-arm64.deb
+Size: 47240396
+MD5sum: 22725bacdf3e52860804afae487c7f41
+SHA1: 6a259b0c3972e15111cee3da02c8e80091daf5d6
+SHA256: da6c2467dd28858ba5d5f58c595cca7356172a682ba187a37ff184707510d91c
+Section: Multimedia
+Priority: Extra
+Homepage: http://kodi.tv/
+Description: Kodi Entertainment Center for iOS
+Author: Team-Kodi
+Icon: file:///Applications/Kodi.app/AppIcon57x57.png
+Name: Kodi-iOS (64-bit)
+
+Package: rocks.stek29.noncereboot11
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Pwn20wnd <pwn20wndstuff@gmail.com>
+Filename: ./debs/rocks.stek29.noncereboot11_1.0.2_iphoneos-arm.deb
+Size: 8236
+MD5sum: 823f5bcb5752a2f9d177cf0b5aea0b4d
+SHA1: 3758afe536f5dde3cf4f40cc4072b50a3ed12fe2
+SHA256: a948359e67fee28801d6702b378512c2ca5d93e83f2c6893dbb4644656c6d2f3
+Section: Utilities
+Description: A proper command line nonce setter for iOS 11.
+Author: Pwn20wnd, stek29 <pwn20wndstuff@gmail.com>
+Name: noncereboot11
+
+Package: rocks.stek29.noncereboot11
+Version: 1.0.3-1
+Architecture: iphoneos-arm
+Maintainer: Pwn20wnd <pwn20wndstuff@gmail.com>
+Installed-Size: 72
+Depends: firmware (>= 11.0), firmware (<< 11.2), cy+cpu.arm64
+Filename: ./debs/rocks.stek29.noncereboot11_1.0.3-1_iphoneos-arm.deb
+Size: 7528
+MD5sum: 47c5f487708ea63336c9278d9032ae8e
+SHA1: f6d5680ada2a6fef69ca5c18ee3847a724ef85ec
+SHA256: e5762404411b0a8f0bd77c9212d386b716896dddb0b5fee2a8a425138bd175ad
+Section: Utilities
+Description: A proper command line nonce setter for iOS 11.
+Author: Pwn20wnd, stek29 <imselfish@stek29.rocks>
+Name: noncereboot11
+
+Package: rocks.stek29.noncereboot11
+Version: 1.0.3-2
+Architecture: iphoneos-arm
+Maintainer: Pwn20wnd <pwn20wndstuff@gmail.com>
+Installed-Size: 76
+Depends: firmware (>= 11.0), firmware (<< 11.2), cy+cpu.arm64
+Filename: ./debs/rocks.stek29.noncereboot11_1.0.3-2_iphoneos-arm.deb
+Size: 7782
+MD5sum: 9374e93d5eb19697bf1792adc80cab8d
+SHA1: 93fb0fccaaf92da319ef45db9102d5513cc2ac24
+SHA256: d531ae041150dd2ba9e45e2aa68664fabd263d1328f03fe6d1d4dddd0b124fbe
+Section: Utilities
+Description: A proper command line nonce setter for iOS 11.
+Author: Pwn20wnd, stek29 <imselfish@stek29.rocks>
+Name: noncereboot11
+
+Package: uncar
+Version: 11.0
+Architecture: iphoneos-arm
+Maintainer: Pwn20wnd <pwn20wndstuff@gmail.com>
+Filename: ./debs/uncar_11.0_iphoneos-arm.deb
+Size: 6132
+MD5sum: cb6b96bc01d52f5d29d5c404575cf834
+SHA1: fb14cecca53306a5e50cd2d65aafb103a185423a
+SHA256: d2a8f227c090ef44d54b9e133d5e124d721aff664fab4328f616181fcacd8416
+Section: System
+Description: Extract Asset.car files from bundles
+ Command line tool that extracts png images from Asset.car files
+Tag: role::hacker
+Author: Elias Limneos <limneoselias@gmail.com>
+Name: uncar
+
+Package: xyz.royalapps.tubeplayer
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Pwn20wnd <pwn20wndstuff@gmail.com>
+Filename: ./debs/xyz.royalapps.tubeplayer_1.0.0_iphoneos-arm.deb
+Size: 1792284
+MD5sum: dd09cf1981921713481d78876ddcdbb9
+SHA1: 4977ad7b86201283a7384e3859edcee76c853da4
+SHA256: cd519b5e978792667b40d40944f894aa45e85808f7e78eb1983a3de790284a46
+Section: Utilities
+Description: A free and open-source iOS app that allows you to view, organize, download and share YouTube videos.
+Author: Justin Proulx
+Name: Tube Player
+
+Package: xyz.royalapps.tubeplayer
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: Pwn20wnd <pwn20wndstuff@gmail.com>
+Pre-Depends: dpkg (>= 1.14.25-8)
+Filename: ./debs/xyz.royalapps.tubeplayer_1.0.0-1_iphoneos-arm.deb
+Size: 1792316
+MD5sum: a78eafedcc20d4fa05e45502e5844a25
+SHA1: 91b46d5b51c769d8e8b82488200a626762ceb7c0
+SHA256: 84c87f77d21eaf4ad7b606bf2547c05c8f236570c21583275aff4a6e306cb22c
+Section: Utilities
+Description: A free and open-source iOS app that allows you to view, organize, download and share YouTube videos.
+Author: Justin Proulx
+Name: Tube Player
+
