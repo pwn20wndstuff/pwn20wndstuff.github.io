@@ -202,26 +202,6 @@ Description: Remove code signatures from iOS Mach-O binaries.
 Author: Pwn20wnd <pwn20wndstuff@gmail.com>
 Name: unsign
 
-Package: com.saurik.impactor
-Version: 10.3
-Architecture: iphoneos-arm
-Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
-Depends: firmware (>= 7.1), firmware (<= 10.3.3)
-Breaks: com.saurik.patych (<< 1.0.1)
-Filename: ./debs/com.saurik.impactor_10.3_iphoneos-arm.deb
-Size: 381380
-MD5sum: 2c1c1098f42fd9ee76bded1b0d50dedb
-SHA1: 55396d7738e5f71b2a323e118fd029c438b68f2d
-SHA256: e6f86baf740c5a90dbc9d94cf42a283bf62f7d97c41eb523664e75a9c73210a4
-Section: Utilities
-Priority: optional
-Description: specific utility to unjailbreak most devices
-Tag: purpose::uikit, role::enduser
-Author: Jay Freeman (saurik) <saurik@saurik.com>
-Depiction: http://cydia.saurik.com/info/com.saurik.impactor/
-Icon: file:///Applications/Eraser.app/Icon-60.png
-Name: Cydia Eraser
-
 Package: net.limneos.classdump-dyld
 Version: 11.0
 Architecture: iphoneos-arm
